@@ -2,7 +2,7 @@
 
 - 💻 Atualmente em busca do primeiro trabalho
 - ♬ Atualmente escutando de tudo um pouco
-- 🎮 Jogando videogame no meu tempo vago
+- 🎮
 
 <br>
 <hr>
