@@ -1,8 +1,8 @@
-<div align="center"><h2> Meu nome é Gabriel Duarte Camilo dos Santos | Tenho 18 anos </h2></div>
+<div align="center"><h2> Meu nome é Gabriel Duarte Camilo dos Santos | Tenho 19 anos </h2></div>
 
-- 💻 Atualmente trabalhando no Projeto Integrador na Generation Brasil
-- ♬ Atualmente escutando bastante The Living Tombstone, CG5, Bury the Light e outros artistas e músicas
-- ⚔ Estou jogando Dark Souls e Skyrim no meu tempo livre
+- 💻 Atualmente em busca do primeiro trabalho
+- ♬ Atualmente escutando de tudo um pouco
+- 🎮 Jogando videogame no meu tempo vago
 
 <br>
 <hr>
